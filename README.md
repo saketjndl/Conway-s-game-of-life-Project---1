@@ -54,11 +54,10 @@ All tests must pass (you should see green output). Test cases include classic pa
   - Challenges with real-time Pygame rendering
   - Coolest extension: pattern save/load + status bar display
 
-[Video Link – Insert your video link here]
 
 ## GitHub Repository
 
-(https://github.com/saketjndl/Conway-s-game-of-life-Project---1)
+https://github.com/saketjndl/Conway-s-game-of-life-Project---1
 
 ## Sample Files
 
